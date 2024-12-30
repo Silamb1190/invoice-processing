@@ -1,5 +1,5 @@
 Flask==2.3.3
 supabase==1.0.0
 requests==2.28.2
-ftplib==3.8.1
+ftplib
 pdfplumber==0.6.0
